@@ -26,7 +26,7 @@ Welcome to the **Hangman Game** – a classic word-guessing game implemented in 
 ## 🚀 Installation & Execution
 ### 1️⃣ Clone the Repository:
 ```sh
- git clone [https://github.com/your-username/hangman-game.git](https://github.com/Sudhanshuverma1/Hangman-_challenge-.git)
+[https://github.com/your-username/hangman-game.git](https://github.com/Sudhanshuverma1/Hangman-_challenge-.git)
 ```
 
 ### 2️⃣ Run the Game:
